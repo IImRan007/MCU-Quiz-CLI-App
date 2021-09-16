@@ -1,6 +1,7 @@
 # MCU Quiz CLI App
 
 Fun Marvel Cinematic Universe(MCU) app made using replit.
+
 Packages used in this app:
 
 1. readLIneSync
